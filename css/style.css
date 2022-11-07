@@ -1,0 +1,13 @@
+.numbers {
+	display: flex;
+	justify-content: space-around;
+}
+
+.number {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 5rem;
+	height: 5rem;
+	background-color: salmon;
+}
